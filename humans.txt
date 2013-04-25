@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sébastien Panda Poisson -- Developer
+    Philippe SailorMoon Ouellet -- Developer -- https://twitter.com/EmeraldCoder
+
+# THANKS
+
+    To all the panda and sailor moon on this Earth
+
+# TECHNOLOGY COLOPHON
+
+    Python, HTML5, CSS3
+    jQuery, Modernizr, Less
