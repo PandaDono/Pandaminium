@@ -1,10 +1,11 @@
-# Django settings for Pandaminium project.
+﻿# Django settings for Pandaminium project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    # ('Your Name', 'your_email@example.com'),
+    ('Philippe "Sailor" Ouellet', 'phil@pandaminium.com'), #Adresse a venir!
+    ('Sébastien "Panda" Poisson', 'info@pandaminium.com'),
 )
 
 MANAGERS = ADMINS
